@@ -1,0 +1,561 @@
+body{
+
+    overflow-x: hidden;
+     font-family: 'Ubuntu', sans-serif;;
+}
+
+
+
+
+
+#testimonials{
+
+   
+    text-align: center;
+    background-color: #40bad5;
+    color: white;
+    
+    min-height: 550px;
+    
+
+    
+    
+    
+   
+   
+ 
+  
+}
+
+h2{
+color: #fff;
+max-width:30%;
+position:absolute;
+left:55%;
+top:35%;
+
+}
+
+.testimonial-image{
+   
+display:flex;
+flex-direction:start;
+margin-left:12%;
+
+}
+
+
+.testimonial-image1{
+    display:flex;
+    flex-direction:start;
+    margin-left:15%;
+    margin-top: 5%;
+     width: 40%;
+}
+
+@media(max-width:1260px)
+{
+    .testimonial-image{
+   
+        display:flex;
+        flex-direction:start;
+        margin-left:2%;
+        
+        }
+        
+
+       
+
+
+        body{
+
+            overflow-x: hidden;
+        }
+        
+
+        h2{
+            color:#fff;
+            max-width:30%;
+            position:absolute;
+            left:55%;
+            top:30%;
+            }
+
+
+            .testimonial-text1{
+
+                color: #fff;
+                position: relative;
+                top: 20%;
+                right: 40%;
+                width: 70%;
+                
+                   
+                
+            }
+
+
+            .testimonial-image6{
+
+                width: 400px;
+                height: 300px;
+                padding: 10px;
+                display: flex;
+                flex-direction: end;
+                margin-left: 2%;
+                position: absolute;
+                top: 20%;
+                
+                
+            }
+            
+
+            .testimonial-image1{
+                display:flex;
+                flex-direction:start;
+                margin-left:15%;
+                margin-top: 15%;
+                 width: 40%;
+                }
+
+            .testimonial-image5{
+
+                width: 100px;
+            height: 400px;
+            
+            display: flex;
+            justify-content: start;
+            
+            
+            
+            
+            }
+
+
+            .testimonial-text2{
+
+                color: #fff;
+                position: relative;
+                top: 10%;
+                right: 40%;
+                width: 70%;
+                
+                   
+                
+            }
+
+ 
+
+
+
+           
+            
+
+            
+                
+
+           
+
+        
+
+}
+
+
+.testimonial-image2{
+
+width: 300px;
+height: 200px;
+padding: 10px;
+display: flex;
+flex-direction: start;
+margin-left: 10%;
+
+}
+
+
+
+
+.testimonial-text1{
+
+    color: #fff;
+    position: absolute;
+    top: 20%;
+       
+    
+}
+
+
+.testimonial-text2{
+
+    color: #fff;
+    position: absolute;
+    top: 30%;
+       
+    
+}
+
+
+.testimonial-image3{
+
+
+width: 300px;
+height: 200px;
+padding: 10px;
+display: flex;
+flex-direction: start;
+margin-left: 20%;
+position: relative;
+top: -100px;
+}
+
+.testimonial-image4{
+
+    width: 300px;
+height: 200px;
+padding: 10px;
+display: flex;
+flex-direction: start;
+margin-left: 30%;
+position: relative;
+top: -240px;
+}
+
+
+
+
+
+.flight-section{
+
+
+    min-height:550px;
+}
+
+
+
+.testimonial-image5{
+
+    width: 700px;
+height: 400px;
+padding: 10px;
+display: flex;
+flex-direction: start;
+margin-left: 8%;
+
+
+
+
+}
+
+.bus-section{
+
+    min-height:550px;
+}
+
+.testimonial-image6{
+
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    display: flex;
+    justify-content: right;
+    
+    position: absolute;
+    top: 20%;
+    
+    
+}
+
+
+.feature-box{
+
+    text-align: center;
+    padding: 4.5%;
+    position: relative;
+
+}
+
+#features{
+
+    background-color: #dbe2ef;
+    padding: 7% 15%;
+    
+}
+
+.icon{
+
+color: #903749;
+
+}
+
+.icon2{
+
+  
+    color: #323232;
+    position: relative;
+    left:200px;
+    bottom: 60px;
+}
+
+.inpur-section{
+
+
+    background-color:#fae7cb;
+    border: none;
+    border: 1px solid;
+}
+
+.train-booking-heading{
+
+    color: red;
+}
+
+#bookings{
+
+    padding: 7% 15%;
+    text-align: left;
+    background-color: #7ebdb4;
+}
+
+
+.cd{
+margin-left: 15%;
+
+
+}
+
+
+.image{
+
+    background-color: #30475e;
+}
+
+.cd-body{
+
+
+    background-color: grey;
+}
+
+.image1{
+
+    background-color: #30475e;
+    padding-top: 30px;
+}
+
+
+#offer-zone{
+
+
+    padding: 7% 15%;
+
+    background-color:#ececec;
+}
+
+
+.offer-cd{
+
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     
+}
+.cd1{
+
+    margin-left: 30px;
+
+}
+
+
+.cd-image{
+
+
+height: 167.4px;
+
+}
+
+
+.butn{
+
+margin-top: 40px;
+position: relative;
+left: 43%;
+}
+
+#app{
+ padding: 5% 15%;
+ background-color: #7ebdb4; ;
+
+
+}
+
+.icon3{
+
+
+    color: #fff;
+    position: relative;
+    left:250px;
+    bottom: 60px;
+}
+
+.app-heading{
+
+
+    color: #30475e;
+}
+
+
+.blinking{
+    animation:blinkingText 1.2s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #000;    }
+    49%{    color: #000; }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #000;    }
+}
+
+
+.butn3{
+
+position: relative;
+right: 40%;
+top: 50%;
+
+
+
+}
+
+.butn4{
+
+
+    background-color: #cf7500;
+    width: 20%;
+}
+
+.download-button{
+
+    margin: 5% 3% 5% 0 ;
+}
+
+.app-foto{
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .column {
+    flex: 50%;
+    padding: 5px;
+  }
+ 
+  .icon5{
+
+    padding-top: 10%;
+  }
+
+  .icon7{
+
+    color: #0f4c81;
+  }
+
+  
+.app-msg{
+
+color: #1b262c;
+
+}
+
+#footer{
+
+    background-color: #323232;
+    padding: 7% 15% 3%;
+    text-align: center;
+
+
+
+}
+
+.img2{
+
+   margin-bottom: 5px;
+   width: 10%;
+   height: 8%;
+}
+
+
+.p-msg{
+
+    color: white;
+}
+
+
+.social-icon{
+
+    margin: 20px 15px;
+    
+
+}
+
+.link{
+
+text-decoration: none;
+color: white
+}
+
+.link:hover{
+color: grey;
+
+}
+
+.footer-paragraph{
+
+
+    color: white;
+}
+
+.app-msg{
+
+    color: #084177;
+}
+
+
+.nav-btn1{
+
+    background-color: grey;
+    height: 60px;
+    width: 60px;
+}
+
+
+
+.nav-item{
+
+    padding: 0px 18px;
+}
+
+
+.nav-link{
+
+    font-size: 1.3rem;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.nl{
+
+
+    
+}
+
